@@ -1,0 +1,19 @@
+package com.hyd.scm;
+
+public class Calculator {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int a=9;
+int b=8;
+int c;
+
+c=a+b;
+
+System.out.println("sum is "+ c);
+	}
+
+}

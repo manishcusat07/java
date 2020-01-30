@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1580408528102
+started,bundle,org.eclipse.osgi,3.6.1.R36x_v20100806,"org.eclipse.osgi",1580408528105
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20100503,"org.eclipse.equinox.simpleconfigurator",1580408528105
+started,bundle,com.ibm.icu,4.2.1.v20100412,"com.ibm.icu",1580408528106
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20100505-1235,"org.eclipse.core.contenttype",1580408528106
+started,bundle,org.eclipse.core.databinding.observable,1.3.0.I20100601-0800,"org.eclipse.core.databinding.observable",1580408528107
+started,bundle,org.eclipse.core.expressions,3.4.200.v20100505,"org.eclipse.core.expressions",1580408528107
+started,bundle,org.eclipse.core.filebuffers,3.5.100.v20100520-0800,"org.eclipse.core.filebuffers",1580408528107
+started,bundle,org.eclipse.core.filesystem,1.3.1.R36x_v20100727-0745,"org.eclipse.core.filesystem",1580408528107
+started,bundle,org.eclipse.core.jobs,3.5.1.R36x_v20100824,"org.eclipse.core.jobs",1580408528107
+started,bundle,org.eclipse.core.net,1.2.100.I20100511-0800,"org.eclipse.core.net",1580408528107
+started,bundle,org.eclipse.core.resources,3.6.0.R36x_v20100825-0600,"org.eclipse.core.resources",1580408528107
+started,bundle,org.eclipse.core.runtime,3.6.0.v20100505,"org.eclipse.core.runtime",1580408528107
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1580408528107
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20100517,"org.eclipse.core.runtime.compatibility.auth",1580408528108
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.0.R201005261100,"org.eclipse.epp.usagedata.gathering",1580408528108
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.0.R201005261100,"org.eclipse.epp.usagedata.recording",1580408528108
+started,bundle,org.eclipse.equinox.app,1.3.1.R36x_v20100803,"org.eclipse.equinox.app",1580408528108
+started,bundle,org.eclipse.equinox.common,3.6.0.v20100503,"org.eclipse.equinox.common",1580408528109
+started,bundle,org.eclipse.equinox.ds,1.2.1.R36x_v20100803,"org.eclipse.equinox.ds",1580408528109
+started,bundle,org.eclipse.equinox.event,1.2.0.v20100503,"org.eclipse.equinox.event",1580408528110
+started,bundle,org.eclipse.equinox.p2.artifact.repository,1.1.1.R36x_v20100901,"org.eclipse.equinox.p2.artifact.repository",1580408528110
+started,bundle,org.eclipse.equinox.p2.core,2.0.2.R36x_v20100804,"org.eclipse.equinox.p2.core",1580408528111
+started,bundle,org.eclipse.equinox.p2.director,2.0.2.R36x_v20100823,"org.eclipse.equinox.p2.director",1580408528111
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.202.R36x_v20100727,"org.eclipse.equinox.p2.directorywatcher",1580408528112
+started,bundle,org.eclipse.equinox.p2.engine,2.0.0.v20100606,"org.eclipse.equinox.p2.engine",1580408528112
+started,bundle,org.eclipse.equinox.p2.extensionlocation,1.2.0.v20100518,"org.eclipse.equinox.p2.extensionlocation",1580408528112
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.100.v20100503,"org.eclipse.equinox.p2.garbagecollector",1580408528112
+started,bundle,org.eclipse.equinox.p2.metadata,2.0.0.v20100601,"org.eclipse.equinox.p2.metadata",1580408528113
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.1.0.v20100513,"org.eclipse.equinox.p2.metadata.repository",1580408528113
+started,bundle,org.eclipse.equinox.p2.operations,2.0.0.v20100510,"org.eclipse.equinox.p2.operations",1580408528114
+started,bundle,org.eclipse.equinox.p2.publisher,1.1.2.v20100824-2220,"org.eclipse.equinox.p2.publisher",1580408528114
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.0.v20100525,"org.eclipse.equinox.p2.reconciler.dropins",1580408528114
+started,bundle,org.eclipse.equinox.p2.repository,2.0.1.R36x_v20100823,"org.eclipse.equinox.p2.repository",1580408528115
+started,bundle,org.eclipse.equinox.p2.touchpoint.eclipse,2.0.2.R36x_v20100823,"org.eclipse.equinox.p2.touchpoint.eclipse",1580408528115
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20100507-1815,"org.eclipse.equinox.p2.ui.sdk.scheduler",1580408528115
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.101.R36x_v20100823,"org.eclipse.equinox.p2.updatechecker",1580408528116
+started,bundle,org.eclipse.equinox.p2.updatesite,1.0.201.R36x_v20100823,"org.eclipse.equinox.p2.updatesite",1580408528116
+started,bundle,org.eclipse.equinox.preferences,3.3.0.v20100503,"org.eclipse.equinox.preferences",1580408528116
+started,bundle,org.eclipse.equinox.registry,3.5.0.v20100503,"org.eclipse.equinox.registry",1580408528116
+started,bundle,org.eclipse.equinox.security,1.0.200.v20100503,"org.eclipse.equinox.security",1580408528116
+started,bundle,org.eclipse.equinox.util,1.0.200.v20100503,"org.eclipse.equinox.util",1580408528117
+started,bundle,org.eclipse.help,3.5.0.v20100524,"org.eclipse.help",1580408528117
+started,bundle,org.eclipse.jdt.core,3.6.1.v_A68_R36x,"org.eclipse.jdt.core",1580408528117
+started,bundle,org.eclipse.jdt.core.manipulation,1.3.0.v20100520-0800,"org.eclipse.jdt.core.manipulation",1580408528117
+started,bundle,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui",1580408528117
+started,bundle,org.eclipse.jface,3.6.1.M20100825-0800,"org.eclipse.jface",1580408528117
+started,bundle,org.eclipse.jsch.core,1.1.200.I20100505-1245,"org.eclipse.jsch.core",1580408528117
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1580408528117
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.2.v20100909-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1580408528117
+started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1580408528117
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1580408528117
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1580408528118
+started,bundle,org.eclipse.mylyn.context.ui,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.ui",1580408528118
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.monitor.ui",1580408528118
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.tasks.ui",1580408528118
+started,bundle,org.eclipse.mylyn.team.ui,3.4.2.v20100909-0100-e3x,"org.eclipse.mylyn.team.ui",1580408528118
+started,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1580408528118
+started,bundle,org.eclipse.team.core,3.5.100.R36x_v20100825-0800,"org.eclipse.team.core",1580408528118
+started,bundle,org.eclipse.team.cvs.core,3.3.300.I20100526-0800,"org.eclipse.team.cvs.core",1580408528118
+started,bundle,org.eclipse.team.cvs.ui,3.3.301.R36x_v20100825-0800,"org.eclipse.team.cvs.ui",1580408528118
+started,bundle,org.eclipse.team.ui,3.5.101.R36x_v20100825-0800,"org.eclipse.team.ui",1580408528118
+started,bundle,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui",1580408528118
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1580408528118
+started,bundle,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.editors",1580408528118
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1580408528118
+started,bundle,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.ide",1580408528118
+started,bundle,org.eclipse.ui.intro,3.4.0.v20100427,"org.eclipse.ui.intro",1580408528119
+started,bundle,org.eclipse.ui.intro.universal,3.2.402.r36_v20100702,"org.eclipse.ui.intro.universal",1580408528119
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1580408528119
+started,bundle,org.eclipse.ui.views,3.5.0.I20100527-0800,"org.eclipse.ui.views",1580408528119
+started,bundle,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"org.eclipse.ui.workbench",1580408528119
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1580408528119
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1580408528119
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1580408528119
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1580408528119
+os,sysinfo,,,"win32",1580408528126
+arch,sysinfo,,,"x86",1580408528126
+ws,sysinfo,,,"win32",1580408528126
+locale,sysinfo,,,"en_US",1580408528126
+processors,sysinfo,,,"2",1580408528126
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1580408528126
+java.runtime.version,sysinfo,,,"1.8.0_241-b07",1580408528126
+java.specification.name,sysinfo,,,"Java Platform API Specification",1580408528126
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1580408528126
+java.specification.version,sysinfo,,,"1.8",1580408528126
+java.vendor,sysinfo,,,"Oracle Corporation",1580408528126
+java.version,sysinfo,,,"1.8.0_241",1580408528126
+java.vm.info,sysinfo,,,"mixed mode",1580408528126
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1580408528126
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1580408528126
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1580408528126
+java.vm.specification.version,sysinfo,,,"1.8",1580408528126
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1580408528126
+java.vm.version,sysinfo,,,"25.241-b07",1580408528126
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1580408531085
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1580408531121
+closed,view,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.internal.introview",1580408531166
+started,bundle,org.eclipse.debug.core,3.6.0.v20100519,"org.eclipse.debug.core",1580408537392
+started,bundle,org.eclipse.jdt.launching,3.5.100.v20100526,"org.eclipse.jdt.launching",1580408537422
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408538421
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408549158
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.100.v20100526-0800,"org.eclipse.ltk.core.refactoring",1580408555868
+started,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1580408555873
+started,bundle,org.eclipse.compare,3.5.100.I20100526-0800,"org.eclipse.compare",1580408558210
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408569417
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408583314
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408591678
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408624738
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408636115
+started,bundle,org.eclipse.mylyn.ide.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.ide.ui",1580408651693
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408652794
+started,bundle,org.eclipse.compare.core,3.5.100.I20100526-0800,"org.eclipse.compare.core",1580408654237
+opened,editor,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1580408654315
+activated,editor,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1580408654551
+started,bundle,org.eclipse.core.variables,3.2.400.v20100505,"org.eclipse.core.variables",1580408654777
+started,bundle,org.eclipse.jdt.junit,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit",1580408655171
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580408669399
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580408678379
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408680517
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408680701
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408681108
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408739808
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580408740729
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580408743522
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408745660
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408745841
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408746012
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580408840788
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580408841755
+started,bundle,org.eclipse.mylyn.java.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.java.ui",1580408852509
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580408891896
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580408891957
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580408901315
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.text.contentAssist.proposals",1580408951306
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580408980366
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409014433
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409022094
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409077935
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409087468
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409096313
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409104602
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409299363
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409310105
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409359900
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409362575
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409365541
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409365755
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409366197
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409378164
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580409378988
+started,bundle,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui",1580409381860
+started,bundle,org.eclipse.jdt.debug,3.6.1.v20100715_r361,"org.eclipse.jdt.debug",1580409381990
+started,bundle,org.eclipse.jdt.debug.ui,3.5.0.v20100602-0830,"org.eclipse.jdt.debug.ui",1580409382124
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409382921
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409385499
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409385622
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409390471
+opened,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1580409391045
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409398191
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409399941
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409401364
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409401719
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409439290
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580409440144
+error,log,,,"Invalid ZIP archive: .project [in Helloworld]",1580409440146
+error,log,,,"Invalid ZIP archive: src/com/hyd/scm/Calculator.java [in Helloworld]",1580409440149
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409442276
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409445936
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580409448757
+error,log,,,"Invalid ZIP archive: .project [in Helloworld]",1580409448761
+error,log,,,"Invalid ZIP archive: src/com/hyd/scm/Calculator.java [in Helloworld]",1580409448766
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1580409459329
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409462434
+closed,editor,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1580409465734
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409465864
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.delete",1580409465899
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409474223
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580409488929
+error,log,,,"Invalid ZIP archive: .project [in Helloworld]",1580409488932
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409489094
+opened,editor,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1580409489311
+activated,editor,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1580409489426
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409496481
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409504949
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409506215
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409506382
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409506786
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409525445
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580409526211
+error,log,,,"Invalid ZIP archive: .project [in Helloworld]",1580409526216
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409529047
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409533128
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.debug.CompilationUnitEditor.BreakpointRulerActions/org.eclipse.jdt.debug.ui.actions.ManageBreakpointRulerAction",1580409534144
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409543911
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409546442
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409546638
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580409551677
+error,log,,,"Invalid ZIP archive: .project [in Helloworld]",1580409551688
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409551724
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409554562
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409576932
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409596001
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409605347
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1580409610243
+activated,editor,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1580409612167
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1580409616343
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409617632
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409617806
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409618151
+started,bundle,org.eclipse.jdt.apt.core,3.3.401.R36_v20100727-0110,"org.eclipse.jdt.apt.core",1580409648565
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.301.R36_v20100727-0110,"org.eclipse.jdt.apt.pluggable.core",1580409648580
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409681806
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409686821
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409693977
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580409695123
+error,log,,,"Invalid ZIP archive: .project [in Helloworld]",1580409695126
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.text.contentAssist.proposals",1580409760671
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409777310
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409779572
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.buildAutomatically",1580409803165
+started,bundle,org.eclipse.ui.externaltools,3.2.0.v20100427,"org.eclipse.ui.externaltools",1580409810681
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409810925
+started,bundle,org.eclipse.ant.ui,3.5.0.v20100427,"org.eclipse.ant.ui",1580409814315
+started,bundle,org.eclipse.ant.launching,1.0.0.v20100427,"org.eclipse.ant.launching",1580409814863
+started,bundle,org.eclipse.ant.core,3.2.200.v20100427,"org.eclipse.ant.core",1580409814924
+started,bundle,org.eclipse.core.externaltools,1.0.1.v20100831_r361,"org.eclipse.core.externaltools",1580409815229
+started,bundle,org.eclipse.wst.sse.core,1.1.502.v201008311901,"org.eclipse.wst.sse.core",1580409824492
+started,bundle,org.eclipse.wst.xml.core,1.1.502.v201009010342,"org.eclipse.wst.xml.core",1580409824503
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409869846
+executed,command,org.eclipse.ui.externaltools,3.2.0.v20100427,"org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar",1580409869929
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409874308
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409877152
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1580409879334
+activated,editor,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1580409885838
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1580409892914
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.text.contentAssist.proposals",1580409901587
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1580409929735
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409942009
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580409950207
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.properties",1580409950222
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.refresh",1580409971987
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580410004011
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580410022814
+error,log,,,"Invalid ZIP archive: .classpath [in Helloworld]",1580410023494
+error,log,,,"Invalid ZIP archive: .project [in Helloworld]",1580410023502
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580410033882
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1580410051181
+opened,editor,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1580410051411
+activated,editor,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1580410051545
